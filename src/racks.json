@@ -1,0 +1,820 @@
+{
+ "racks": [
+  {
+   "id": "m3",
+   "name": "M3",
+   "rows": {
+    "front": [
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M3",
+      "compartments": [
+       {
+        "key": "M3-N",
+        "fraction": 0.3333333333333333,
+        "thread": "M3",
+        "symbol": "nut",
+        "length": null,
+        "pieces": 103,
+        "bolt_depot": 4773,
+        "brushwarden": true,
+        "bulk_cm3": 7.2,
+        "fill": 0.54
+       },
+       {
+        "key": "M3-NL",
+        "fraction": 0.3333333333333333,
+        "thread": "M3",
+        "symbol": "nyloc",
+        "length": null,
+        "pieces": 110,
+        "bolt_depot": 4792,
+        "brushwarden": true,
+        "bulk_cm3": 10.7,
+        "fill": 0.8
+       },
+       {
+        "key": "M3-W",
+        "fraction": 0.3333333333333333,
+        "thread": "M3",
+        "symbol": "washer",
+        "length": null,
+        "pieces": 100,
+        "bolt_depot": 4513,
+        "brushwarden": false,
+        "bulk_cm3": 3.3,
+        "fill": 0.25
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M3",
+      "compartments": [
+       {
+        "key": "M3-S6",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "socket",
+        "length": 6,
+        "pieces": 30,
+        "bolt_depot": 6378,
+        "brushwarden": false,
+        "bulk_cm3": 10.6,
+        "fill": 0.53
+       },
+       {
+        "key": "M3-S8",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "socket",
+        "length": 8,
+        "pieces": 50,
+        "bolt_depot": 6379,
+        "brushwarden": false,
+        "bulk_cm3": 19.8,
+        "fill": 0.99
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M3",
+      "compartments": [
+       {
+        "key": "M3-S10",
+        "fraction": 1.0,
+        "thread": "M3",
+        "symbol": "socket",
+        "length": 10,
+        "pieces": 50,
+        "bolt_depot": 6380,
+        "brushwarden": false,
+        "bulk_cm3": 21.9,
+        "fill": 0.55
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M3",
+      "compartments": [
+       {
+        "key": "M3-S12",
+        "fraction": 1.0,
+        "thread": "M3",
+        "symbol": "socket",
+        "length": 12,
+        "pieces": 50,
+        "bolt_depot": 6381,
+        "brushwarden": false,
+        "bulk_cm3": 24.0,
+        "fill": 0.6
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M3",
+      "compartments": [
+       {
+        "key": "M3-S16",
+        "fraction": 1.0,
+        "thread": "M3",
+        "symbol": "socket",
+        "length": 16,
+        "pieces": 50,
+        "bolt_depot": 6382,
+        "brushwarden": false,
+        "bulk_cm3": 28.1,
+        "fill": 0.7
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M3",
+      "compartments": [
+       {
+        "key": "M3-S20",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "socket",
+        "length": 20,
+        "pieces": 30,
+        "bolt_depot": 6383,
+        "brushwarden": false,
+        "bulk_cm3": 19.4,
+        "fill": 0.97
+       },
+       {
+        "key": "M3-S25",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "socket",
+        "length": 25,
+        "pieces": 30,
+        "bolt_depot": 6384,
+        "brushwarden": false,
+        "bulk_cm3": 22.5,
+        "fill": 1.12
+       }
+      ]
+     }
+    ],
+    "back": [
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M3",
+      "compartments": [
+       {
+        "key": "M3-S30",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "socket",
+        "length": 30,
+        "pieces": 30,
+        "bolt_depot": 6385,
+        "brushwarden": false,
+        "bulk_cm3": 25.6,
+        "fill": 1.09
+       },
+       {
+        "key": "M3-P12",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "pan",
+        "length": 12,
+        "pieces": 40,
+        "bolt_depot": 6833,
+        "brushwarden": true,
+        "bulk_cm3": 15.0,
+        "fill": 0.64
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M3",
+      "compartments": [
+       {
+        "key": "M3-B6",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "button",
+        "length": 6,
+        "pieces": 30,
+        "bolt_depot": 7218,
+        "brushwarden": false,
+        "bulk_cm3": 7.5,
+        "fill": 0.32
+       },
+       {
+        "key": "M3-B8",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "button",
+        "length": 8,
+        "pieces": 50,
+        "bolt_depot": 7219,
+        "brushwarden": false,
+        "bulk_cm3": 14.6,
+        "fill": 0.62
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M3",
+      "compartments": [
+       {
+        "key": "M3-B10",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "button",
+        "length": 10,
+        "pieces": 30,
+        "bolt_depot": 7220,
+        "brushwarden": false,
+        "bulk_cm3": 10.0,
+        "fill": 0.43
+       },
+       {
+        "key": "M3-C8",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "csk",
+        "length": 8,
+        "pieces": 30,
+        "bolt_depot": 7213,
+        "brushwarden": false,
+        "bulk_cm3": 7.5,
+        "fill": 0.32
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M3",
+      "compartments": [
+       {
+        "key": "M3-C12",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "csk",
+        "length": 12,
+        "pieces": 33,
+        "bolt_depot": 7215,
+        "brushwarden": true,
+        "bulk_cm3": 11.0,
+        "fill": 0.47
+       },
+       {
+        "key": "M3-C16",
+        "fraction": 0.5,
+        "thread": "M3",
+        "symbol": "csk",
+        "length": 16,
+        "pieces": 30,
+        "bolt_depot": 7216,
+        "brushwarden": false,
+        "bulk_cm3": 12.5,
+        "fill": 0.53
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": null,
+      "compartments": []
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": null,
+      "compartments": []
+     }
+    ]
+   }
+  },
+  {
+   "id": "m2-m4",
+   "name": "M2 · M2.5 · M4",
+   "rows": {
+    "front": [
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M2",
+      "compartments": [
+       {
+        "key": "M2-S6",
+        "fraction": 0.5,
+        "thread": "M2",
+        "symbol": "socket",
+        "length": 6,
+        "pieces": 30,
+        "bolt_depot": 6363,
+        "brushwarden": false,
+        "bulk_cm3": 3.1,
+        "fill": 0.16
+       },
+       {
+        "key": "M2-S10",
+        "fraction": 0.5,
+        "thread": "M2",
+        "symbol": "socket",
+        "length": 10,
+        "pieces": 30,
+        "bolt_depot": 6365,
+        "brushwarden": false,
+        "bulk_cm3": 4.4,
+        "fill": 0.22
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M4",
+      "compartments": [
+       {
+        "key": "M4-S8",
+        "fraction": 1.0,
+        "thread": "M4",
+        "symbol": "socket",
+        "length": 8,
+        "pieces": 30,
+        "bolt_depot": 6392,
+        "brushwarden": false,
+        "bulk_cm3": 25.0,
+        "fill": 0.62
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M4",
+      "compartments": [
+       {
+        "key": "M4-S16",
+        "fraction": 1.0,
+        "thread": "M4",
+        "symbol": "socket",
+        "length": 16,
+        "pieces": 30,
+        "bolt_depot": 6396,
+        "brushwarden": false,
+        "bulk_cm3": 35.0,
+        "fill": 0.88
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M4",
+      "compartments": [
+       {
+        "key": "M4-S20",
+        "fraction": 1.0,
+        "thread": "M4",
+        "symbol": "socket",
+        "length": 20,
+        "pieces": 30,
+        "bolt_depot": 6398,
+        "brushwarden": false,
+        "bulk_cm3": 40.0,
+        "fill": 1.0
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M4",
+      "compartments": [
+       {
+        "key": "M4-C12",
+        "fraction": 0.5,
+        "thread": "M4",
+        "symbol": "csk",
+        "length": 12,
+        "pieces": 30,
+        "bolt_depot": 6665,
+        "brushwarden": false,
+        "bulk_cm3": 21.2,
+        "fill": 1.06
+       },
+       {
+        "key": "M4-N",
+        "fraction": 0.5,
+        "thread": "M4",
+        "symbol": "nut",
+        "length": null,
+        "pieces": 100,
+        "bolt_depot": 4774,
+        "brushwarden": false,
+        "bulk_cm3": 16.7,
+        "fill": 0.83
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M4",
+      "compartments": [
+       {
+        "key": "M4-NL",
+        "fraction": 0.62,
+        "thread": "M4",
+        "symbol": "nyloc",
+        "length": null,
+        "pieces": 100,
+        "bolt_depot": 4793,
+        "brushwarden": false,
+        "bulk_cm3": 22.2,
+        "fill": 0.9
+       },
+       {
+        "key": "M4-W",
+        "fraction": 0.38,
+        "thread": "M4",
+        "symbol": "washer",
+        "length": null,
+        "pieces": 100,
+        "bolt_depot": 4514,
+        "brushwarden": false,
+        "bulk_cm3": 5.6,
+        "fill": 0.37
+       }
+      ]
+     }
+    ],
+    "back": [
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M2",
+      "compartments": [
+       {
+        "key": "M2-P16",
+        "fraction": 0.5,
+        "thread": "M2",
+        "symbol": "pan",
+        "length": 16,
+        "pieces": 50,
+        "bolt_depot": 6818,
+        "brushwarden": true,
+        "bulk_cm3": 8.3,
+        "fill": 0.35
+       },
+       {
+        "key": "M2-N",
+        "fraction": 0.25,
+        "thread": "M2",
+        "symbol": "nut",
+        "length": null,
+        "pieces": 120,
+        "bolt_depot": 7362,
+        "brushwarden": true,
+        "bulk_cm3": 3.3,
+        "fill": 0.28
+       },
+       {
+        "key": "M2-W",
+        "fraction": 0.25,
+        "thread": "M2",
+        "symbol": "washer",
+        "length": null,
+        "pieces": 120,
+        "bolt_depot": 7364,
+        "brushwarden": true,
+        "bulk_cm3": 1.3,
+        "fill": 0.11
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M2.5",
+      "compartments": [
+       {
+        "key": "M2.5-S6",
+        "fraction": 0.5,
+        "thread": "M2.5",
+        "symbol": "socket",
+        "length": 6,
+        "pieces": 30,
+        "bolt_depot": 6370,
+        "brushwarden": false,
+        "bulk_cm3": 5.0,
+        "fill": 0.21
+       },
+       {
+        "key": "M2.5-S10",
+        "fraction": 0.5,
+        "thread": "M2.5",
+        "symbol": "socket",
+        "length": 10,
+        "pieces": 30,
+        "bolt_depot": 6372,
+        "brushwarden": false,
+        "bulk_cm3": 6.9,
+        "fill": 0.29
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M2.5",
+      "compartments": [
+       {
+        "key": "M2.5-N",
+        "fraction": 0.5,
+        "thread": "M2.5",
+        "symbol": "nut",
+        "length": null,
+        "pieces": 100,
+        "bolt_depot": 7363,
+        "brushwarden": false,
+        "bulk_cm3": 4.2,
+        "fill": 0.18
+       },
+       {
+        "key": "M2.5-W",
+        "fraction": 0.5,
+        "thread": "M2.5",
+        "symbol": "washer",
+        "length": null,
+        "pieces": 100,
+        "bolt_depot": 7365,
+        "brushwarden": false,
+        "bulk_cm3": 1.4,
+        "fill": 0.06
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M4",
+      "compartments": [
+       {
+        "key": "M4-S12",
+        "fraction": 1.0,
+        "thread": "M4",
+        "symbol": "socket",
+        "length": 12,
+        "pieces": 50,
+        "bolt_depot": 6394,
+        "brushwarden": false,
+        "bulk_cm3": 50.0,
+        "fill": 1.06
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M4",
+      "compartments": [
+       {
+        "key": "M4-S25",
+        "fraction": 1.0,
+        "thread": "M4",
+        "symbol": "socket",
+        "length": 25,
+        "pieces": 30,
+        "bolt_depot": 6399,
+        "brushwarden": false,
+        "bulk_cm3": 46.2,
+        "fill": 0.98
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M4",
+      "compartments": [
+       {
+        "key": "M4-B8",
+        "fraction": 0.5,
+        "thread": "M4",
+        "symbol": "button",
+        "length": 8,
+        "pieces": 30,
+        "bolt_depot": 6622,
+        "brushwarden": false,
+        "bulk_cm3": 18.8,
+        "fill": 0.8
+       },
+       {
+        "key": "M4-B12",
+        "fraction": 0.5,
+        "thread": "M4",
+        "symbol": "button",
+        "length": 12,
+        "pieces": 30,
+        "bolt_depot": 6624,
+        "brushwarden": false,
+        "bulk_cm3": 23.8,
+        "fill": 1.01
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "m5",
+   "name": "M5",
+   "rows": {
+    "front": [
+     {
+      "cells": 2,
+      "height_u": 6,
+      "thread": "M5",
+      "compartments": [
+       {
+        "key": "M5-S10",
+        "fraction": 1.0,
+        "thread": "M5",
+        "symbol": "socket",
+        "length": 10,
+        "pieces": 50,
+        "bolt_depot": 6407,
+        "brushwarden": false,
+        "bulk_cm3": 81.2,
+        "fill": 1.02
+       }
+      ]
+     },
+     {
+      "cells": 2,
+      "height_u": 6,
+      "thread": "M5",
+      "compartments": [
+       {
+        "key": "M5-S16",
+        "fraction": 1.0,
+        "thread": "M5",
+        "symbol": "socket",
+        "length": 16,
+        "pieces": 30,
+        "bolt_depot": 6409,
+        "brushwarden": false,
+        "bulk_cm3": 60.0,
+        "fill": 0.75
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M5",
+      "compartments": [
+       {
+        "key": "M5-N",
+        "fraction": 1.0,
+        "thread": "M5",
+        "symbol": "nut",
+        "length": null,
+        "pieces": 100,
+        "bolt_depot": 4775,
+        "brushwarden": false,
+        "bulk_cm3": 30.6,
+        "fill": 0.76
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 6,
+      "thread": "M5",
+      "compartments": [
+       {
+        "key": "M5-B10",
+        "fraction": 1.0,
+        "thread": "M5",
+        "symbol": "button",
+        "length": 10,
+        "pieces": 30,
+        "bolt_depot": 6632,
+        "brushwarden": false,
+        "bulk_cm3": 36.2,
+        "fill": 0.91
+       }
+      ]
+     }
+    ],
+    "back": [
+     {
+      "cells": 2,
+      "height_u": 7,
+      "thread": "M5",
+      "compartments": [
+       {
+        "key": "M5-S20",
+        "fraction": 1.0,
+        "thread": "M5",
+        "symbol": "socket",
+        "length": 20,
+        "pieces": 30,
+        "bolt_depot": 6410,
+        "brushwarden": false,
+        "bulk_cm3": 67.5,
+        "fill": 0.72
+       }
+      ]
+     },
+     {
+      "cells": 2,
+      "height_u": 7,
+      "thread": "M5",
+      "compartments": [
+       {
+        "key": "M5-S25",
+        "fraction": 1.0,
+        "thread": "M5",
+        "symbol": "socket",
+        "length": 25,
+        "pieces": 30,
+        "bolt_depot": 6411,
+        "brushwarden": false,
+        "bulk_cm3": 77.5,
+        "fill": 0.82
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M5",
+      "compartments": [
+       {
+        "key": "M5-S8",
+        "fraction": 1.0,
+        "thread": "M5",
+        "symbol": "socket",
+        "length": 8,
+        "pieces": 30,
+        "bolt_depot": 6406,
+        "brushwarden": false,
+        "bulk_cm3": 45.0,
+        "fill": 0.96
+       }
+      ]
+     },
+     {
+      "cells": 1,
+      "height_u": 7,
+      "thread": "M5",
+      "compartments": [
+       {
+        "key": "M5-NL",
+        "fraction": 0.75,
+        "thread": "M5",
+        "symbol": "nyloc",
+        "length": null,
+        "pieces": 100,
+        "bolt_depot": 4794,
+        "brushwarden": false,
+        "bulk_cm3": 38.9,
+        "fill": 1.1
+       },
+       {
+        "key": "M5-W",
+        "fraction": 0.25,
+        "thread": "M5",
+        "symbol": "washer",
+        "length": null,
+        "pieces": 100,
+        "bolt_depot": 4515,
+        "brushwarden": false,
+        "bulk_cm3": 9.7,
+        "fill": 0.83
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

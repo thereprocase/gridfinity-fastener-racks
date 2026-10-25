@@ -1,0 +1,1400 @@
+{
+ "racks": [
+  {
+   "id": "m3",
+   "rack_cm3": 141.4,
+   "bins": [
+    {
+     "name": "front-1",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M3",
+     "keys": [
+      "M3-N",
+      "M3-NL",
+      "M3-W"
+     ],
+     "body_cm3": 21.4,
+     "labels_cm3": 0.21,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M3",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "nut",
+       "width_mm": 6.24,
+       "room_mm": 10.47
+      },
+      {
+       "where": "inside",
+       "label": "nut",
+       "width_mm": 6.24,
+       "room_mm": 10.47
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 10.47
+      },
+      {
+       "where": "front",
+       "label": "nyloc",
+       "width_mm": 5.46,
+       "room_mm": 10.47
+      },
+      {
+       "where": "inside",
+       "label": "nyloc",
+       "width_mm": 5.46,
+       "room_mm": 10.47
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 10.47
+      },
+      {
+       "where": "front",
+       "label": "washer",
+       "width_mm": 5.46,
+       "room_mm": 10.47
+      },
+      {
+       "where": "inside",
+       "label": "washer",
+       "width_mm": 5.46,
+       "room_mm": 10.47
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 10.47
+      }
+     ]
+    },
+    {
+     "name": "front-2",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M3",
+     "keys": [
+      "M3-S6",
+      "M3-S8"
+     ],
+     "body_cm3": 19.7,
+     "labels_cm3": 0.18,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M3",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 6",
+       "width_mm": 10.08,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "socket 6",
+       "width_mm": 10.08,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      },
+      {
+       "where": "front",
+       "label": "socket 8",
+       "width_mm": 10.08,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "socket 8",
+       "width_mm": 10.08,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      }
+     ]
+    },
+    {
+     "name": "front-3",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M3",
+     "keys": [
+      "M3-S10"
+     ],
+     "body_cm3": 18.1,
+     "labels_cm3": 0.16,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M3",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 10",
+       "width_mm": 20.48,
+       "room_mm": 33.5
+      },
+      {
+       "where": "inside",
+       "label": "M3 socket 10",
+       "width_mm": 24.15,
+       "room_mm": 37.3
+      }
+     ]
+    },
+    {
+     "name": "front-4",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M3",
+     "keys": [
+      "M3-S12"
+     ],
+     "body_cm3": 18.1,
+     "labels_cm3": 0.15,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M3",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 12",
+       "width_mm": 20.48,
+       "room_mm": 33.5
+      },
+      {
+       "where": "inside",
+       "label": "M3 socket 12",
+       "width_mm": 24.15,
+       "room_mm": 37.3
+      }
+     ]
+    },
+    {
+     "name": "front-5",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M3",
+     "keys": [
+      "M3-S16"
+     ],
+     "body_cm3": 18.1,
+     "labels_cm3": 0.16,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M3",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 16",
+       "width_mm": 20.48,
+       "room_mm": 33.5
+      },
+      {
+       "where": "inside",
+       "label": "M3 socket 16",
+       "width_mm": 24.15,
+       "room_mm": 37.3
+      }
+     ]
+    },
+    {
+     "name": "front-6",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M3",
+     "keys": [
+      "M3-S20",
+      "M3-S25"
+     ],
+     "body_cm3": 19.7,
+     "labels_cm3": 0.21,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M3",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 20",
+       "width_mm": 13.86,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "socket 20",
+       "width_mm": 13.86,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      },
+      {
+       "where": "front",
+       "label": "socket 25",
+       "width_mm": 13.86,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "socket 25",
+       "width_mm": 13.86,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      }
+     ]
+    },
+    {
+     "name": "back-1",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M3",
+     "keys": [
+      "M3-S30",
+      "M3-P12"
+     ],
+     "body_cm3": 21.9,
+     "labels_cm3": 0.2,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M3",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 30",
+       "width_mm": 13.91,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "socket 30",
+       "width_mm": 13.91,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      },
+      {
+       "where": "front",
+       "label": "pan 12",
+       "width_mm": 13.65,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "pan 12",
+       "width_mm": 13.65,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      }
+     ]
+    },
+    {
+     "name": "back-2",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M3",
+     "keys": [
+      "M3-B6",
+      "M3-B8"
+     ],
+     "body_cm3": 21.9,
+     "labels_cm3": 0.17,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M3",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "button 6",
+       "width_mm": 10.45,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "button 6",
+       "width_mm": 10.45,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      },
+      {
+       "where": "front",
+       "label": "button 8",
+       "width_mm": 10.45,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "button 8",
+       "width_mm": 10.45,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      }
+     ]
+    },
+    {
+     "name": "back-3",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M3",
+     "keys": [
+      "M3-B10",
+      "M3-C8"
+     ],
+     "body_cm3": 21.9,
+     "labels_cm3": 0.19,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M3",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "button 10",
+       "width_mm": 14.02,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "button 10",
+       "width_mm": 14.02,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      },
+      {
+       "where": "front",
+       "label": "csk 8",
+       "width_mm": 9.83,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "csk 8",
+       "width_mm": 9.83,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      }
+     ]
+    },
+    {
+     "name": "back-4",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M3",
+     "keys": [
+      "M3-C12",
+      "M3-C16"
+     ],
+     "body_cm3": 21.9,
+     "labels_cm3": 0.19,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M3",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "csk 12",
+       "width_mm": 13.4,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "csk 12",
+       "width_mm": 13.4,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      },
+      {
+       "where": "front",
+       "label": "csk 16",
+       "width_mm": 13.4,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "csk 16",
+       "width_mm": 13.4,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M3",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      }
+     ]
+    },
+    {
+     "name": "back-5",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": null,
+     "keys": [],
+     "body_cm3": 17.5,
+     "labels_cm3": 0,
+     "labels": []
+    },
+    {
+     "name": "back-6",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": null,
+     "keys": [],
+     "body_cm3": 17.5,
+     "labels_cm3": 0,
+     "labels": []
+    }
+   ]
+  },
+  {
+   "id": "m2-m4",
+   "rack_cm3": 141.4,
+   "bins": [
+    {
+     "name": "front-1",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M2",
+     "keys": [
+      "M2-S6",
+      "M2-S10"
+     ],
+     "body_cm3": 19.7,
+     "labels_cm3": 0.19,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M2",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 6",
+       "width_mm": 10.08,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "socket 6",
+       "width_mm": 10.08,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M2",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      },
+      {
+       "where": "front",
+       "label": "socket 10",
+       "width_mm": 13.65,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "socket 10",
+       "width_mm": 13.65,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M2",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      }
+     ]
+    },
+    {
+     "name": "front-2",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M4",
+     "keys": [
+      "M4-S8"
+     ],
+     "body_cm3": 18.1,
+     "labels_cm3": 0.14,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M4",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 8",
+       "width_mm": 15.12,
+       "room_mm": 33.5
+      },
+      {
+       "where": "inside",
+       "label": "M4 socket 8",
+       "width_mm": 20.58,
+       "room_mm": 37.3
+      }
+     ]
+    },
+    {
+     "name": "front-3",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M4",
+     "keys": [
+      "M4-S16"
+     ],
+     "body_cm3": 18.1,
+     "labels_cm3": 0.16,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M4",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 16",
+       "width_mm": 20.48,
+       "room_mm": 33.5
+      },
+      {
+       "where": "inside",
+       "label": "M4 socket 16",
+       "width_mm": 24.15,
+       "room_mm": 37.3
+      }
+     ]
+    },
+    {
+     "name": "front-4",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M4",
+     "keys": [
+      "M4-S20"
+     ],
+     "body_cm3": 18.1,
+     "labels_cm3": 0.16,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M4",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 20",
+       "width_mm": 20.79,
+       "room_mm": 33.5
+      },
+      {
+       "where": "inside",
+       "label": "M4 socket 20",
+       "width_mm": 24.36,
+       "room_mm": 37.3
+      }
+     ]
+    },
+    {
+     "name": "front-5",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M4",
+     "keys": [
+      "M4-C12",
+      "M4-N"
+     ],
+     "body_cm3": 19.8,
+     "labels_cm3": 0.17,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M4",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "csk 12",
+       "width_mm": 13.4,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "csk 12",
+       "width_mm": 13.4,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M4",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      },
+      {
+       "where": "front",
+       "label": "nut",
+       "width_mm": 6.24,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "nut",
+       "width_mm": 6.24,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M4",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      }
+     ]
+    },
+    {
+     "name": "front-6",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M4",
+     "keys": [
+      "M4-NL",
+      "M4-W"
+     ],
+     "body_cm3": 19.8,
+     "labels_cm3": 0.15,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M4",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "nyloc",
+       "width_mm": 5.46,
+       "room_mm": 21.71
+      },
+      {
+       "where": "inside",
+       "label": "nyloc",
+       "width_mm": 5.46,
+       "room_mm": 21.71
+      },
+      {
+       "where": "inside",
+       "label": "M4",
+       "width_mm": 7.98,
+       "room_mm": 21.71
+      },
+      {
+       "where": "front",
+       "label": "washer",
+       "width_mm": 5.46,
+       "room_mm": 12.65
+      },
+      {
+       "where": "inside",
+       "label": "washer",
+       "width_mm": 5.46,
+       "room_mm": 12.65
+      },
+      {
+       "where": "inside",
+       "label": "M4",
+       "width_mm": 7.98,
+       "room_mm": 12.65
+      }
+     ]
+    },
+    {
+     "name": "back-1",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M2",
+     "keys": [
+      "M2-P16",
+      "M2-N",
+      "M2-W"
+     ],
+     "body_cm3": 23.9,
+     "labels_cm3": 0.19,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M2",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "pan 16",
+       "width_mm": 13.65,
+       "room_mm": 16.55
+      },
+      {
+       "where": "inside",
+       "label": "pan 16",
+       "width_mm": 13.65,
+       "room_mm": 16.55
+      },
+      {
+       "where": "inside",
+       "label": "M2",
+       "width_mm": 7.98,
+       "room_mm": 16.55
+      },
+      {
+       "where": "front",
+       "label": "nut",
+       "width_mm": 6.24,
+       "room_mm": 7.43
+      },
+      {
+       "where": "inside",
+       "label": "nut",
+       "width_mm": 6.24,
+       "room_mm": 7.43
+      },
+      {
+       "where": "front",
+       "label": "washer",
+       "width_mm": 5.46,
+       "room_mm": 7.43
+      },
+      {
+       "where": "inside",
+       "label": "washer",
+       "width_mm": 5.46,
+       "room_mm": 7.43
+      }
+     ]
+    },
+    {
+     "name": "back-2",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M2.5",
+     "keys": [
+      "M2.5-S6",
+      "M2.5-S10"
+     ],
+     "body_cm3": 21.8,
+     "labels_cm3": 0.23,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M2.5",
+       "width_mm": 20.79,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 6",
+       "width_mm": 10.08,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "socket 6",
+       "width_mm": 10.08,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M2.5",
+       "width_mm": 13.86,
+       "room_mm": 17.18
+      },
+      {
+       "where": "front",
+       "label": "socket 10",
+       "width_mm": 13.65,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "socket 10",
+       "width_mm": 13.65,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M2.5",
+       "width_mm": 13.86,
+       "room_mm": 17.18
+      }
+     ]
+    },
+    {
+     "name": "back-3",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M2.5",
+     "keys": [
+      "M2.5-N",
+      "M2.5-W"
+     ],
+     "body_cm3": 21.9,
+     "labels_cm3": 0.19,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M2.5",
+       "width_mm": 20.79,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "nut",
+       "width_mm": 6.24,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "nut",
+       "width_mm": 6.24,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M2.5",
+       "width_mm": 13.86,
+       "room_mm": 17.18
+      },
+      {
+       "where": "front",
+       "label": "washer",
+       "width_mm": 5.46,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "washer",
+       "width_mm": 5.46,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M2.5",
+       "width_mm": 13.86,
+       "room_mm": 17.18
+      }
+     ]
+    },
+    {
+     "name": "back-4",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M4",
+     "keys": [
+      "M4-S12"
+     ],
+     "body_cm3": 19.9,
+     "labels_cm3": 0.15,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M4",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 12",
+       "width_mm": 20.48,
+       "room_mm": 33.5
+      },
+      {
+       "where": "inside",
+       "label": "M4 socket 12",
+       "width_mm": 24.15,
+       "room_mm": 37.3
+      }
+     ]
+    },
+    {
+     "name": "back-5",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M4",
+     "keys": [
+      "M4-S25"
+     ],
+     "body_cm3": 19.9,
+     "labels_cm3": 0.16,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M4",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 25",
+       "width_mm": 20.79,
+       "room_mm": 33.5
+      },
+      {
+       "where": "inside",
+       "label": "M4 socket 25",
+       "width_mm": 24.36,
+       "room_mm": 37.3
+      }
+     ]
+    },
+    {
+     "name": "back-6",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M4",
+     "keys": [
+      "M4-B8",
+      "M4-B12"
+     ],
+     "body_cm3": 21.9,
+     "labels_cm3": 0.18,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M4",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "button 8",
+       "width_mm": 10.45,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "button 8",
+       "width_mm": 10.45,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M4",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      },
+      {
+       "where": "front",
+       "label": "button 12",
+       "width_mm": 14.02,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "button 12",
+       "width_mm": 14.02,
+       "room_mm": 17.18
+      },
+      {
+       "where": "inside",
+       "label": "M4",
+       "width_mm": 7.98,
+       "room_mm": 17.18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m5",
+   "rack_cm3": 141.4,
+   "bins": [
+    {
+     "name": "front-1",
+     "row": "front",
+     "cells": 2,
+     "height_u": 6,
+     "thread": "M5",
+     "keys": [
+      "M5-S10"
+     ],
+     "body_cm3": 33.2,
+     "labels_cm3": 0.16,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M5",
+       "width_mm": 11.97,
+       "room_mm": 75.5
+      },
+      {
+       "where": "front",
+       "label": "socket 10",
+       "width_mm": 20.48,
+       "room_mm": 75.5
+      },
+      {
+       "where": "inside",
+       "label": "M5 socket 10",
+       "width_mm": 24.15,
+       "room_mm": 79.3
+      }
+     ]
+    },
+    {
+     "name": "front-2",
+     "row": "front",
+     "cells": 2,
+     "height_u": 6,
+     "thread": "M5",
+     "keys": [
+      "M5-S16"
+     ],
+     "body_cm3": 33.2,
+     "labels_cm3": 0.16,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M5",
+       "width_mm": 11.97,
+       "room_mm": 75.5
+      },
+      {
+       "where": "front",
+       "label": "socket 16",
+       "width_mm": 20.48,
+       "room_mm": 75.5
+      },
+      {
+       "where": "inside",
+       "label": "M5 socket 16",
+       "width_mm": 24.15,
+       "room_mm": 79.3
+      }
+     ]
+    },
+    {
+     "name": "front-3",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M5",
+     "keys": [
+      "M5-N"
+     ],
+     "body_cm3": 18.1,
+     "labels_cm3": 0.12,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M5",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "nut",
+       "width_mm": 9.36,
+       "room_mm": 33.5
+      },
+      {
+       "where": "inside",
+       "label": "M5 nut",
+       "width_mm": 16.74,
+       "room_mm": 37.3
+      }
+     ]
+    },
+    {
+     "name": "front-4",
+     "row": "front",
+     "cells": 1,
+     "height_u": 6,
+     "thread": "M5",
+     "keys": [
+      "M5-B10"
+     ],
+     "body_cm3": 18.1,
+     "labels_cm3": 0.16,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M5",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "button 10",
+       "width_mm": 21.03,
+       "room_mm": 33.5
+      },
+      {
+       "where": "inside",
+       "label": "M5 button 10",
+       "width_mm": 24.52,
+       "room_mm": 37.3
+      }
+     ]
+    },
+    {
+     "name": "back-1",
+     "row": "back",
+     "cells": 2,
+     "height_u": 7,
+     "thread": "M5",
+     "keys": [
+      "M5-S20"
+     ],
+     "body_cm3": 36.2,
+     "labels_cm3": 0.17,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M5",
+       "width_mm": 11.97,
+       "room_mm": 75.5
+      },
+      {
+       "where": "front",
+       "label": "socket 20",
+       "width_mm": 20.79,
+       "room_mm": 75.5
+      },
+      {
+       "where": "inside",
+       "label": "M5 socket 20",
+       "width_mm": 24.36,
+       "room_mm": 79.3
+      }
+     ]
+    },
+    {
+     "name": "back-2",
+     "row": "back",
+     "cells": 2,
+     "height_u": 7,
+     "thread": "M5",
+     "keys": [
+      "M5-S25"
+     ],
+     "body_cm3": 36.2,
+     "labels_cm3": 0.16,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M5",
+       "width_mm": 11.97,
+       "room_mm": 75.5
+      },
+      {
+       "where": "front",
+       "label": "socket 25",
+       "width_mm": 20.79,
+       "room_mm": 75.5
+      },
+      {
+       "where": "inside",
+       "label": "M5 socket 25",
+       "width_mm": 24.36,
+       "room_mm": 79.3
+      }
+     ]
+    },
+    {
+     "name": "back-3",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M5",
+     "keys": [
+      "M5-S8"
+     ],
+     "body_cm3": 19.9,
+     "labels_cm3": 0.14,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M5",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "socket 8",
+       "width_mm": 15.12,
+       "room_mm": 33.5
+      },
+      {
+       "where": "inside",
+       "label": "M5 socket 8",
+       "width_mm": 20.58,
+       "room_mm": 37.3
+      }
+     ]
+    },
+    {
+     "name": "back-4",
+     "row": "back",
+     "cells": 1,
+     "height_u": 7,
+     "thread": "M5",
+     "keys": [
+      "M5-NL",
+      "M5-W"
+     ],
+     "body_cm3": 21.9,
+     "labels_cm3": 0.14,
+     "labels": [
+      {
+       "where": "front",
+       "label": "M5",
+       "width_mm": 11.97,
+       "room_mm": 33.5
+      },
+      {
+       "where": "front",
+       "label": "nyloc",
+       "width_mm": 5.46,
+       "room_mm": 26.61
+      },
+      {
+       "where": "inside",
+       "label": "nyloc",
+       "width_mm": 5.46,
+       "room_mm": 26.61
+      },
+      {
+       "where": "inside",
+       "label": "M5",
+       "width_mm": 7.98,
+       "room_mm": 26.61
+      },
+      {
+       "where": "front",
+       "label": "washer",
+       "width_mm": 5.46,
+       "room_mm": 7.75
+      },
+      {
+       "where": "inside",
+       "label": "washer",
+       "width_mm": 5.46,
+       "room_mm": 7.75
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "too_wide": []
+}

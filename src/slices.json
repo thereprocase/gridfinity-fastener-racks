@@ -1,0 +1,47 @@
+{
+ "m3-bins": {
+  "grams": [
+   229.85,
+   17.17
+  ],
+  "time": "10h 4m 38s",
+  "label_changes": 77
+ },
+ "m3-shell": {
+  "grams": [
+   104.22
+  ],
+  "time": "2h 15m 16s",
+  "label_changes": 0
+ },
+ "m2-m4-bins": {
+  "grams": [
+   235.82,
+   17.44
+  ],
+  "time": "10h 20m 56s",
+  "label_changes": 77
+ },
+ "m2-m4-shell": {
+  "grams": [
+   104.22
+  ],
+  "time": "2h 15m 16s",
+  "label_changes": 0
+ },
+ "m5-bins": {
+  "grams": [
+   206.58,
+   16.49
+  ],
+  "time": "8h 40m 5s",
+  "label_changes": 77
+ },
+ "m5-shell": {
+  "grams": [
+   104.22
+  ],
+  "time": "2h 15m 16s",
+  "label_changes": 0
+ }
+}
